@@ -3286,3 +3286,4 @@ var index = Object.freeze({
 });
 
 export { turbo_es2017Esm as Turbo, cable };
+window.Turbo = turbo_es2017Esm
